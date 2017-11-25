@@ -1,0 +1,3 @@
+workout,duration,distance,units,notes
+run,2400,6,miles,ran on Black Cloud for 40 minutes
+run,3600,8,miles,South Boulder Creek for one hour
